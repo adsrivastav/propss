@@ -1,11 +1,4 @@
-Here's a guide to help you create a PowerPoint presentation on props in React, including examples.
 
-### Slide 1: **Title Slide**
-- **Title:** Understanding Props in React
-- **Subtitle:** A Guide to Passing Data Between Components
-- **Your Name:** Adarsh Rakesh Srivastav
-
----
 
 ### Slide 2: **Introduction to React Props**
 - **Title:** What Are Props?
